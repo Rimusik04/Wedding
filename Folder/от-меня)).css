@@ -10,7 +10,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 1482px;
-  background-image: url("/images/469c1c0c2815df6044124dd84d477cec67e10b4fe64ee672155ffd0798e98d93fe7f69fbe9f631fc9a346d8d869960b56fb721b5551d6e1723f826_1280.jpg");
+  background-image: url("../images/469c1c0c2815df6044124dd84d477cec67e10b4fe64ee672155ffd0798e98d93fe7f69fbe9f631fc9a346d8d869960b56fb721b5551d6e1723f826_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -37,7 +37,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("/images/3864caedb46735502dfbe494736d0960a8babbacb2e48115a8d73e16fa83074bfaa9515bfc55b675b67a897ce31e0ee635015f0d4b0e8f3aea6a34_1280.jpg");
+  background-image: url("../images/3864caedb46735502dfbe494736d0960a8babbacb2e48115a8d73e16fa83074bfaa9515bfc55b675b67a897ce31e0ee635015f0d4b0e8f3aea6a34_1280.jpg");
   background-position: 50% 50%;
 }
 
